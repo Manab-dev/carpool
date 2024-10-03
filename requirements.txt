@@ -6,3 +6,6 @@ plotly
 folium
 streamlit
 streamlit_folium
+scikit-learn
+numpy
+pandas
